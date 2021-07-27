@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "shadow-cljs": "2.8.96",
-        "webpack": "^4.43.0",
+        "webpack": "^4.46.0",
         "webpack-cli": "^3.3.12"
     },
     "dependencies": {
